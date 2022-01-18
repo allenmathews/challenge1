@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    background-color: #281B2D;
+    color: #fff;
+    text-align: center;
+    font-size: 72px;
+    margin-top: 0;
+    padding: 25px 0;
+}
+
+img {
+    width: 350px;
+    height: 600px;
+    margin-top: 40px;
+}
+
+.lizard {
+    background-color: #281B2D;
+    color: #fcd801;
+    padding: 20px;
+    border-bottom: 10px solid #00C54C;
+    font-size: 48px;
+}
+
+.white-text {
+    color: #fff;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+    width: ;
+}
+
+.columns {
+    display: flex;
+}
+
+.sidebar {
+    padding: 20px;
+}
+
+.main-content {
+    width: 65%;
+    margin-right: 5%;
+}
+
+.col {
+    margin: 20px;
+    width: 30%;
+}
+
+.cols {
+    display: flex;
+}
+
+.col-right {
+    margin-left: 25px;
+}
